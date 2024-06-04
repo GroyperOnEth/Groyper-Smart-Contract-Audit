@@ -6,6 +6,6 @@ https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Securit
 </p>
 Main details of the Audit report
 <p>** The contract does not contain issues of high or medium criticality.</p>
-<p>** You can find the Audit Report linked below.
+</p>** You can find the Audit Report linked below.</p>
 https://github.com/solidproof/projects/tree/main/2024/GROYPER<br>
 
